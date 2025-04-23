@@ -1,0 +1,9 @@
+[usar]
+	name = giancarlo
+[user]
+	name = giancarlo
+	email = giancarlosantos1982@gmail.com
+[init]
+	defaultBranch = main
+[credential]
+	helper = store
